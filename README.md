@@ -1,0 +1,1 @@
+Esta aplicación Android implementa un sistema de navegación utilizando un menú inferior (BottomNavigationView) para gestionar tres Fragments principales: Home, Search, y Library. La interacción es fluida y permite cambios dinámicos entre las vistas.
